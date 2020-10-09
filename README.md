@@ -2,6 +2,9 @@
 
 ## 20201009
 
+- side effects
+> 副作用
+
 - underlying
 > ˌəndərˈlīiNG
 > **Adjective** 底层的
