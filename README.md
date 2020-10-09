@@ -2,6 +2,33 @@
 
 ## 20201009
 
+- underlying
+> ˌəndərˈlīiNG
+> **Adjective** 底层的
+
+- exclusive
+> ikˈsklo͞osiv
+> AdjectiveFrequency
+独家
+exclusive(3)
+优
+excellent, superior, outstanding, superb, brilliant, exclusive(1)
+优势
+dominant, superior, leading, excellent, prevailing, exclusive(1)
+独占的
+exclusive(1)
+Adverb
+只
+only, just, merely, exclusively, exclusive(1)
+仅仅
+only, merely, exclusively, barely, exclusive(1)
+独占地
+exclusive, exclusively(1)
+
+- whereas
+> **Conjunction** 而 (whereas, while)(1)
+> **Noun** 导言 (introduction, whereas)(1)
+
 - lavishly
 > **Adverb** 过度 (over, lavishly, deuced, deucedly, troppo)(1), 丰富地 (abundantly, aplenty, bounteously, copiously, galore, lavishly)(1)
 
